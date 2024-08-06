@@ -1,3 +1,4 @@
 /linear-algebra-w-pytorch/data/*
 /linear-algebra-w-pytorch/.env
 **/.DS_Store
+**/.ipynb_checkpoints
